@@ -18744,7 +18744,7 @@ a.dropdown-item.active {
 /*--/slider--*/
 /*--/banner--*/
 .w3l-main-slider .w3l-bannerhny-content {
-    background:white;
+    background: url(../images/white background.jpg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
